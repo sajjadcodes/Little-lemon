@@ -1,5 +1,5 @@
 # Little-lemon
-Goal
+## Goal
 
 The Course Assessment will require learner to build the two pages of the web app and be split majorly into two parts:
 
@@ -7,7 +7,7 @@ Create the Menu page
 
 Create the Menu Item page
 
-Scenario
+## Scenario
 
 By now you are fairly familiar with the aspirations of the owners Mario and Adrian in providing the best experience to their customers.
 
@@ -23,12 +23,12 @@ Learner Instructions
 
 The Little Lemon website will consist of five pages:
 
-Home
+- Home
 
-About
+- About
 
-Booking
+- Booking
 
-Menu
+- Menu
 
-Menu Item
+- Menu Item
